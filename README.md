@@ -1,3 +1,3 @@
-# ADXL345-BZ
+# ADXL345-Driver_BZ
 
 "Driver" for the Adafruit ADXL345 Accelerometer written in python.
